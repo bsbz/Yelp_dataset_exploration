@@ -5,6 +5,7 @@
    - Helaleh Alimohammadi - Halimohangar@gmail.com
    - Vidhu Bhatt - vidhubhatt20@gmail.com
    - Zolbo Batsaikhan - zolboo888@gmail.com
+      - LinkedIn: https://www.linkedin.com/in/zolbo/
 
 **Introduction**
 
