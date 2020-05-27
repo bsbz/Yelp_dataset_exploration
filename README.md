@@ -2,9 +2,9 @@
 
 **Contributers:**
 
-   - Helaleh Alimohammadi - Halimohangar@gmail.com, LinkedIn: https://www.linkedin.com/in/helaleh-alimohammadi/
-   - Vidhu Bhatt - vidhubhatt20@gmail.com, LinkedIn: https://www.linkedin.com/in/vidhu-bhatt-644a8579/         
-   - Zolbo Batsaikhan - zolboo888@gmail.com, LinkedIn: https://www.linkedin.com/in/zolbo/
+   - Helaleh Alimohammadi - https://www.linkedin.com/in/helaleh-alimohammadi/
+   - Vidhu Bhatt - https://www.linkedin.com/in/vidhu-bhatt-644a8579/         
+   - Zolbo Batsaikhan - https://www.linkedin.com/in/zolbo/
 
 **Introduction**
 
