@@ -35,11 +35,11 @@ Here you can see
 
    We used two different recommender methods to recommend restaurants:
 
-   **Content based:** 
+   **1. Content based:** 
    
    We used k-Nearest neighbour Classifier from pandas sklearn to find similar restaurants for a specific restaurant.
 
-   **Collabaretive Filtering:**
+   **2. Collabaretive Filtering:**
    
    Here, we recommend restaurants to the popular restaurant based on similar users interest (ratings).
    
