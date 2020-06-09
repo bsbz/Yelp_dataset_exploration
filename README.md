@@ -1,10 +1,6 @@
 # Recommender System using Yelp dataset
 
-**Contributers:**
-
-   - Helaleh Alimohammadi - https://www.linkedin.com/in/helaleh-alimohammadi/
-   - Vidhu Bhatt - https://www.linkedin.com/in/vidhu-bhatt-644a8579/         
-   - Zolbo Batsaikhan - https://www.linkedin.com/in/zolbo/
+https://www.linkedin.com/in/zolbo/
 
 **Introduction**
 
